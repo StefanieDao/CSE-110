@@ -2,10 +2,14 @@
 
 ## General
 **Name:** Stefanie Dao
+
 **Age:** 20
+
 ***About myself:*** I am a student from Vietnam, studying *Cognitive Science* with a minor in *Computer Science*.
+
 **My favorite quote these days (credit: Reddit)**
 > Universities are hedge fun with education services 
+
 **First line of __code__ :**
 ''' 
 print("Hello world")
@@ -15,10 +19,10 @@ print("Hello world")
 **External Link:** You can find me on [LinkedIn](https://www.linkedin.com/in/stefanie-dao/) *or*
 **Section Link:** You can read my introduction [here], *or*
 
-**Unordered List** My favorite memes and content these days:
+**Unordered List** My favorite memes these days:
 - **Relative link:** [Meme](IMG_1947.jpg)
-- **Pictures:** [content](https://imgur.com/EwPHOT4)
-- **Pictures:** [content](https://imgur.com/AEDDxTV)
+- **Pictures:** ![Meme](https://imgur.com/EwPHOT4)
+- **Pictures:** ![Meme](https://imgur.com/AEDDxTV)
 
 
 **Ordered list** My favorite programming languages:
