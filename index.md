@@ -21,10 +21,8 @@ print("Hello world")
 
 **Unordered List** My favorite memes these days:
 - **Relative link:** [Meme](IMG_1947.JPG)
-- **Pictures:** ![Imgur][simon-cowell](https://user-images.githubusercontent.com/59592651/134832097-3422ea35-2e88-4ede-843d-802d0aba9fd2.jpeg)
-OT4))
-- **Pictures:** ![Imgur][content](https://user-images.githubusercontent.com/59592651/134832118-8e9d3e39-da90-4f29-88bb-fe265ce83c01.jpeg)
-EDDxTV)
+- **Pictures:** ![simon-cowell](https://user-images.githubusercontent.com/59592651/134832097-3422ea35-2e88-4ede-843d-802d0aba9fd2.jpeg)
+- **Pictures:** ![content](https://user-images.githubusercontent.com/59592651/134832118-8e9d3e39-da90-4f29-88bb-fe265ce83c01.jpeg)
 
 
 **Ordered list** My favorite programming languages:
