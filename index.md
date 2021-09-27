@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# HELLO WORLD!
 
-You can use the [editor on GitHub](https://github.com/StefanieDao/CSE-110/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## General
+**Name:** Stefanie Dao
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Age:** 20
 
-### Markdown
+***About myself:*** I am a student from Vietnam, studying *Cognitive Science* with a minor in *Computer Science*.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**My favorite quote these days (credit: Reddit)**
+> Universities are hedge fund with education services 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+**First line of _code_:**
+``` 
+print("Hello world")
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+##  Links:
+**External Link:** You can find me on [LinkedIn](https://www.linkedin.com/in/stefanie-dao/) *or*
+**Section Link:** You can read my introduction [here](#general)
 
-### Jekyll Themes
+**Unordered List** My favorite memes these days:
+- **Relative link:** [Meme](IMG_1947.JPG)
+- **Pictures:** ![simon-cowell](https://user-images.githubusercontent.com/59592651/134832097-3422ea35-2e88-4ede-843d-802d0aba9fd2.jpeg)
+- **Pictures:** ![content](https://user-images.githubusercontent.com/59592651/134832118-8e9d3e39-da90-4f29-88bb-fe265ce83c01.jpeg)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StefanieDao/CSE-110/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+**Ordered list** My favorite programming languages:
+1. C++
+2. Python
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Task List** My bucket list this year:
+- [ ] Go Skydiving
+- [x] Learn driving
+- [ ] Visit NYC 
+
+
