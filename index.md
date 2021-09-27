@@ -21,8 +21,8 @@ print("Hello world")
 
 **Unordered List** My favorite memes these days:
 - **Relative link:** [Meme](IMG_1947.jpg)
-- **Pictures:** ![Meme](https://imgur.com/EwPHOT4)
-- **Pictures:** ![Meme](https://imgur.com/AEDDxTV)
+- **Pictures:** ![Imgur](https://imgur.com/EwPHOT4))
+- **Pictures:** ![Imgur](https://imgur.com/AEDDxTV)
 
 
 **Ordered list** My favorite programming languages:
