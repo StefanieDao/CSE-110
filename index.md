@@ -17,10 +17,10 @@ print("Hello world")
 
 ##  Links:
 **External Link:** You can find me on [LinkedIn](https://www.linkedin.com/in/stefanie-dao/) *or*
-**Section Link:** You can read my introduction [here], *or*
+**Section Link:** You can read my introduction [here](Gene), *or*
 
 **Unordered List** My favorite memes these days:
-- **Relative link:** [Meme](IMG_1947.jpg)
+- **Relative link:** [Meme](IMG_1947.JPG)
 - **Pictures:** ![Imgur](https://imgur.com/EwPHOT4))
 - **Pictures:** ![Imgur](https://imgur.com/AEDDxTV)
 
