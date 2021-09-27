@@ -17,7 +17,7 @@ print("Hello world")
 
 ##  Links:
 **External Link:** You can find me on [LinkedIn](https://www.linkedin.com/in/stefanie-dao/) *or*
-**Section Link:** You can read my introduction [here](#general), *or*
+**Section Link:** You can read my introduction [here](#general)
 
 **Unordered List** My favorite memes these days:
 - **Relative link:** [Meme](IMG_1947.JPG)
