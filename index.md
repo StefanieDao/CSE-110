@@ -11,9 +11,9 @@
 > Universities are hedge fun with education services 
 
 **First line of __code__ :**
-''' 
+``` 
 print("Hello world")
-'''
+```
 
 ##  Links:
 **External Link:** You can find me on [LinkedIn](https://www.linkedin.com/in/stefanie-dao/) *or*
